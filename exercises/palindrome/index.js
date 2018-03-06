@@ -5,8 +5,17 @@
 // and punctuation in determining if the string is a palindrome.
 // --- Examples:
 //   palindrome("abba") === true
-//   palindrome("abcdefg") === false
+//   palindgirome("abcdefg") === false
 
-function palindrome(str) {}
+function palindrome(str) {
+    // not ideal, but gives you something to talk about because you're looping even after you've compared
+    //characters after middle
+    return str.split('').every((char, i) => {
+        return char === str[str.length - i - 1]
+    })
+}
 
 module.exports = palindrome;
+
+// let reversed = str.split('').reverse().join('');
+// return reversed === str;
