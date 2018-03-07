@@ -2,22 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d59de2d1-539d-4adf-a4f7-fc839cf1e97e" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/exercises/compressString/index.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/exercises/compressString/test.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/exercises/phoneNumberSum/index.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/exercises/phoneNumberSum/test.js" />
-      <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change beforePath="$PROJECT_DIR$/exercises/anagrams/index.js" afterPath="$PROJECT_DIR$/exercises/anagrams/index.js" />
-      <change beforePath="$PROJECT_DIR$/exercises/capitalize/index.js" afterPath="$PROJECT_DIR$/exercises/capitalize/index.js" />
-      <change beforePath="$PROJECT_DIR$/exercises/chunk/index.js" afterPath="$PROJECT_DIR$/exercises/chunk/index.js" />
-      <change beforePath="$PROJECT_DIR$/exercises/fizzbuzz/index.js" afterPath="$PROJECT_DIR$/exercises/fizzbuzz/index.js" />
-      <change beforePath="$PROJECT_DIR$/exercises/maxchar/index.js" afterPath="$PROJECT_DIR$/exercises/maxchar/index.js" />
-      <change beforePath="$PROJECT_DIR$/exercises/palindrome/index.js" afterPath="$PROJECT_DIR$/exercises/palindrome/index.js" />
-      <change beforePath="$PROJECT_DIR$/exercises/reverseint/index.js" afterPath="$PROJECT_DIR$/exercises/reverseint/index.js" />
-      <change beforePath="$PROJECT_DIR$/exercises/reversestring/index.js" afterPath="$PROJECT_DIR$/exercises/reversestring/index.js" />
-      <change beforePath="$PROJECT_DIR$/exercises/steps/index.js" afterPath="$PROJECT_DIR$/exercises/steps/index.js" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/exercises/pyramid/index.js" afterPath="$PROJECT_DIR$/exercises/pyramid/index.js" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -28,11 +14,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/exercises/steps/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="63">
-              <caret line="19" column="15" lean-forward="false" selection-start-line="19" selection-start-column="15" selection-end-line="19" selection-end-column="15" />
+            <state relative-caret-position="357">
+              <caret line="42" column="26" lean-forward="false" selection-start-line="42" selection-start-column="20" selection-end-line="42" selection-end-column="26" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/exercises/pyramid/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="51" column="5" lean-forward="true" selection-start-line="51" selection-start-column="5" selection-end-line="51" selection-end-column="5" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -41,10 +39,10 @@
         </entry>
       </file>
       <file leaf-file-name="test.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/exercises/steps/test.js">
+        <entry file="file://$PROJECT_DIR$/exercises/pyramid/test.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-45">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="340">
+              <caret line="27" column="3" lean-forward="true" selection-start-line="27" selection-start-column="3" selection-end-line="27" selection-end-column="3" />
               <folding />
             </state>
           </provider>
@@ -84,6 +82,7 @@
         <option value="$PROJECT_DIR$/exercises/phoneNumberSum/index.js" />
         <option value="$PROJECT_DIR$/exercises/capitalize/index.js" />
         <option value="$PROJECT_DIR$/exercises/steps/index.js" />
+        <option value="$PROJECT_DIR$/exercises/pyramid/index.js" />
       </list>
     </option>
   </component>
@@ -130,6 +129,12 @@
               <item name="AlgoCasts" type="b2602c69:ProjectViewProjectNode" />
               <item name="AlgoCasts" type="462c0819:PsiDirectoryNode" />
               <item name="exercises" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AlgoCasts" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AlgoCasts" type="462c0819:PsiDirectoryNode" />
+              <item name="exercises" type="462c0819:PsiDirectoryNode" />
+              <item name="pyramid" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="AlgoCasts" type="b2602c69:ProjectViewProjectNode" />
@@ -270,15 +275,16 @@
       <workItem from="1516585205769" duration="8000" />
       <workItem from="1516585263330" duration="1842000" />
       <workItem from="1516986163052" duration="319000" />
-      <workItem from="1517348410996" duration="15508000" />
+      <workItem from="1517348410996" duration="18079000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19025000" />
+    <option name="totallyTimeSpent" value="21596000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="811" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -292,7 +298,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -540,10 +546,28 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/pyramid/test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="27" column="3" lean-forward="true" selection-start-line="27" selection-start-column="3" selection-end-line="27" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/exercises/steps/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="19" column="15" lean-forward="false" selection-start-line="19" selection-start-column="15" selection-end-line="19" selection-end-column="15" />
+        <state relative-caret-position="357">
+          <caret line="42" column="26" lean-forward="false" selection-start-line="42" selection-start-column="20" selection-end-line="42" selection-end-column="26" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/pyramid/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="51" column="5" lean-forward="true" selection-start-line="51" selection-start-column="5" selection-end-line="51" selection-end-column="5" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
